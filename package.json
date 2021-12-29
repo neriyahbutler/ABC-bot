@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.7.5",
+    "avconv": "^3.1.0",
+    "dialogflow": "^4.0.3",
+    "discord-button-pages": "^1.1.9",
+    "discord-buttons": "^4.0.0",
+    "discord-player": "^5.2.0",
+    "discord-speech-recognition": "^2.2.0",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.0",
+    "libsodium-wrappers": "^0.7.9",
+    "node-opus": "^0.3.3",
+    "reconlx": "^2.5.1",
+    "uuid": "^8.3.2",
+    "ytdl-core": "^4.9.2"
+  }
+}
