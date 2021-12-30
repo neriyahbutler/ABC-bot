@@ -20,5 +20,8 @@
   },
   "engines": {
     "node": "17.2.0"
+  },
+    "scripts": {
+      "start": "ts-node index.ts"
   }
 }
