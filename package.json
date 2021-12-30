@@ -15,6 +15,7 @@
     "libsodium-wrappers": "^0.7.9",
     "node-opus": "^0.3.3",
     "reconlx": "^2.5.1",
+    "ts-node": "^10.4.0",
     "uuid": "^8.3.2",
     "ytdl-core": "^4.9.2"
   },
